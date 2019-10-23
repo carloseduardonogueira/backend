@@ -1,40 +1,5 @@
 {
   "escolas": [
-    {
-      "id": 1,
-      "name": "Puc-Campinas",
-      "endereco": "Rod Dom Pedro",
-      "idDiretor": 1,
-      "fone": "199230761"
-    },
-    {
-      "id": 2,
-      "name": "Unicamp",
-      "endereco": "Barão Geraldo",
-      "idDiretor": 2,
-      "fone": "1936541457"
-    },
-    {
-      "name": "Bairro Jaguari",
-      "endereco": "Santo Antonio do Jardim",
-      "diretor": "",
-      "fone": "",
-      "id": 3
-    },
-    {
-      "name": "Usp",
-      "endereco": "São Paulo",
-      "diretor": "",
-      "fone": "",
-      "id": 4
-    },
-    {
-      "name": "Outra escolas",
-      "endereco": "Jardim",
-      "diretor": "",
-      "fone": "",
-      "id": 5
-    }
   ],
   "diretores": [
     {
@@ -45,5 +10,11 @@
       "name": "Silvia",
       "id": 2
     }
+  ],
+  "professores": [
+  ],
+  "administradores": [
+  ],
+  "alunos": [
   ]
 }
