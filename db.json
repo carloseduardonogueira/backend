@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "escolas": [],
   "diretores": [],
   "professores": [],
@@ -8,24 +7,4 @@
   "materias": [],
   "notas": [],
   "ocorrencias": []
-=======
-  "escolas": [
-  ],
-  "diretores": [
-    {
-      "name": "Fernando",
-      "id": 1
-    },
-    {
-      "name": "Silvia",
-      "id": 2
-    }
-  ],
-  "professores": [
-  ],
-  "administradores": [
-  ],
-  "alunos": [
-  ]
->>>>>>> b9f6b138e70f38925cb43298126eea670d1f057d
 }
